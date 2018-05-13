@@ -3,4 +3,4 @@ class Cat
   def mewo
     puts "meow!"
   end
-end## code your solution here. 
+end## code your solution here.
